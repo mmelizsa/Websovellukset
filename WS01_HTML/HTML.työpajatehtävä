@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>My first HTML Page</title>
+</head>
+<body>
+<h1>Welcome to my Page</h1>
+<p>Tällä hetkelä työskentelen lentokentän loungessa täyspäiväisesti ja opiskelen IT-tradenomiksi monimuodossa.</p>
+<img src="path/to/image.jpg" alt="Description of image">
+<h2>Ordered List</h2>
+<ol>
+<li>Traveling</li>
+<li>Journaling</li>
+<li>Reading</li>
+</ol>
+<h2>Unordered List</h2>
+<ul>
+<li>Reading</li>
+<li>Traveling</li>
+<li>Journaling</li>
+</ul>
+<a> href=https://fi.pinterest.com/</a>
+<table>
+<tr>
+<th>Websivuston kehittäminen 1</th>
+<th>Professional Communication in English 2</th>
+</tr>
+<tr>
+<td>Row 1, Cell 1</td>
+<td>Row 1, Cell 1</td>
+</tr>
+<tr>
+<td>Row 2, Cell 1</td>
+<td>Row 2, Cell 2</td>
+</tr>
+</table>
+<form>
+<label for="name">Melissa:</label>
+<input type="text" id="name" name="Melissa"><br><br>
+<label for="email">mek00059@laurea.fi:</label>
+<input type="email" id="email" name="mek00059@laurea.fi"><br><br>
+<input type= "submit" value="Submit">
+</form>
+</body>
+</html>
