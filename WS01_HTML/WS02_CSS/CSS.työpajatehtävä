@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html lang="en-US">
-      <head>
-          <meta charset="UTF-8">
-          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html> 
+  <head>
     <title>
-     Melissa's webpage
-    </title>
+  <html lang="en-US">
     </head>
+    </title>
 </html>
 <head>
+<title>My first HTML Page</title>
+</head>
 <style>
   a {
     color:hotpink;
@@ -23,8 +23,8 @@ color: hotpink;
 <body>
   <link rel="stylesheet" type="text/css" href="./styles/styles.css">
 <h1>Welcome to my page</h1>
- <h1 style="color: hotpink;" 
-<p> Hi, My name is Melissa and i'm a BBA, Information Technology student and i also work full time at an Airpot Lounge.</p>
+ <h1 style="color: hotpink;"
+<p>Hi, My name is Melissa and i'm a BBA, Information Technology student and i also work full time at an Airpot Lounge.</p>
 <img src="images/In Belgium.JPG" alt="In cafe in Belgium" width="250" height="200">
 <h2>My hobbies inclued</h2>
 <ol>
@@ -38,7 +38,7 @@ color: hotpink;
 <li>Traveling</li>
 <li>Journaling</li>
 </ul>
-<a href="https://www.linkedin.com/in/melissavkarp/" target="_blank">Click here to go to my Linkedin profile</a>
+<a>href="https://www.linkedin.com/in/melissavkarp/"</a>
 <table>
 <tr>
 <th>Courses</th>
