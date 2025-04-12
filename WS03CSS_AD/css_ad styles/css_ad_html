@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en-US">
+      <head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+     Melissa's webpage
+    </title>
+    </head>
+</html>
+<head>
+<style>
+  a {
+    color:hotpink;
+    text-decoration: none;
+    font-weight: bold;
+ }
+  a:hover {
+color: hotpink;
+  }
+</style>
+</head>
+<body>
+  <link rel="stylesheet" type="text/css" href="./styles/styles.css">
+<h1>Welcome to my page</h1>
+ <h1 style="color: hotpink;" 
+<p> Hi, My name is Melissa and i'm a BBA, Information Technology student and i also work full time at an Airpot Lounge.</p>
+<img src="images/In Belgium.JPG" alt="In cafe in Belgium" width="250" height="200">
+<h2>My language skills</h2>
+<ol>
+<li>Finnish</li>
+<li>Japanese</li>
+<li>English</li>
+</ol>
+<h2>My hobbies</h2>
+<ul>
+<li>Traveling</li>
+<li>Journaling</li>
+<li>Reading</li>
+</ul>
+<a href="https://www.linkedin.com/in/melissavkarp/" target="_blank">Click here to go to my Linkedin profile</a>
+<table>
+<tr>
+<th>Courses</th>
+<th>About little bit about me</th>
+</tr>
+<tr>
+<td>Websivuston kehittäminen</td>
+<td>I'm an INFP</td>
+</tr>
+<tr>
+<td>Professional Communication in English</td>
+<td>My star sign is a Cancer</td>
+</tr>
+</table>
+<form>
+<label for="name">Name:</label>
+<input type="text" id="name" name="Melissa"><br><br>
+<label for="email">E-mail:</label>
+<input type="email" id="email" name="mek00059@laurea.fi"><br><br>
+<input type= "submit" value="Submit">
+</form>
+</body>
