@@ -32,6 +32,7 @@ color: hotpink;
   -Jane Austen
 </blockquote>
 <h2>My language skills</h2>
+<button class="transition-button"> Hover Me!</button>
 <ol>
 <li>Finnish</li>
 <li>Japanese</li>
@@ -44,6 +45,8 @@ color: hotpink;
 <li>Reading</li>
 </ul>
 <a href="https://www.linkedin.com/in/melissavkarp/" target="_blank">Click here to go to my Linkedin profile</a>
+<div class="animation-box"></div>
+<br><br>
 <table>
 <tr>
 <th>Courses</th>
@@ -71,3 +74,4 @@ color: hotpink;
 <input type= "submit" value="Submit">
 </form>
 </body>
+</html>
