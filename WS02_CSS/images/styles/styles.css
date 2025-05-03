@@ -200,3 +200,25 @@ flex-wrap: wrap;
 .responsive-nav .menu-toggle {
   display: block;
  }
+
+.btn-success {
+  background-color: hotpink;
+  color: navy;
+  border: none;
+}
+.btn-success:hover{
+  background-color:navy;
+  color: hotpink;
+  border:none;
+}
+.alert{
+  background-color: navy;
+  color: hotpink;
+  border: 2px solid navy;
+}
+.card{
+  background-color:rgb(255, 240, 104);
+  color: rgb(213, 156, 232);
+  border:none;
+}
+
